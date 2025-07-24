@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8T2HN4B3V7.com.petcarefeed.sunny",
+        "paths": [ "/login", "/login/*" ]
+      }
+    ]
+  }
+}
